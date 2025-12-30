@@ -1,4 +1,3 @@
-----------------------
 ### Steps So Far Followed & Results Achieved:
 
 **1. Data Cleaning**
@@ -64,5 +63,3 @@ Linear Regression Model:
 `import joblib`
 
 `loaded_linear_model = joblib.load('linear_regression_model.joblib')`
-
-----------------------
