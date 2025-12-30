@@ -4,7 +4,7 @@ A curated collection of machine learning projects exploring classification, regr
 
 ## 📂 Projects
 
-1. [Amazon Alexa Reviews](./amazon-alexa-reviews-classification) – Sentiment classification of customer reviews.
+1. [Amazon Alexa Reviews](./amazon-alexa-review-classification) – Sentiment classification of customer reviews.
 2. [Mobile Price Range Classification](./mobile-price-range-classification) – Predicting mobile price categories.
 3. [College Performance Analysis](./college-performance-analysis) – Exploratory data analysis of college datasets.
 4. [Auto MPG EDA](./auto-mpg-eda) – Exploratory data analysis and model selection for MPG prediction.
